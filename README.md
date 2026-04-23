@@ -6,6 +6,13 @@
 - Robotics
 - Computer Vision
 
+## Tools
+<p><img src="https://skillicons.dev/icons?i=python,r,matlab,js"></p>
+<p><img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv"></p>
+<p><img src="https://skillicons.dev/icons?i=mysql,mongodb"></p>
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,latex"></p>
+<p><img src="https://skillicons.dev/icons?i=ros"></p>
+
 ## Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.martinez.cuenca04@gmail.com)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:202211532@alu.comillas.edu)
