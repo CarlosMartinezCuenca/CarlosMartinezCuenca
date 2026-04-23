@@ -8,7 +8,7 @@
 
 ## Tools
 <p>
-<img src="https://skillicons.dev/icons?i=python,r,matlab,js,pytorch,sklearn,opencv"/>
+<img src="https://skillicons.dev/icons?i=python,r,matlab,docker,pytorch,sklearn,opencv"/>
 </p>
 
 <p>
