@@ -1,10 +1,6 @@
 # Carlos Martínez
 
-## Mathematical Engineering student interested in:
-- Machine Learning
-- Reinforcement Learning
-- Robotics
-- Computer Vision
+### Mathematical Engineering student focused on Machine Learning, Reinforcement Learning, Robotics and Computer Vision.
 
 ## Tools
 <p>
